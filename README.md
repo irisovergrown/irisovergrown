@@ -1,1 +1,1 @@
-![Pixel skyline with softly glowing windows](./skyline.svg)
+![A night train crosses a moonlit city skyline](./night-train.svg)
